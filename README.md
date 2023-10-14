@@ -1,7 +1,6 @@
 # about-linux
 
-工具网站
-搜索linux命令行
+
 
 
 入门Linux命令行网站
