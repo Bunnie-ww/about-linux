@@ -1,8 +1,7 @@
 # about-linux
 
 ### 工具网站
-https://wangchujiang.com/linux-command/
-
+[查找linux指令]（https://wangchujiang.com/linux-command/）
 
 
 ### 入门Linux命令行网站
