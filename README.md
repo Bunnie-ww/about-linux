@@ -16,4 +16,5 @@
   * [mkdir ； mkdir -p ； ls ；ls >  ； echo " " > ；  */?  ；cat  ；>>   ；less  ；"pgup" and "pgdn" ](https://ubuntu.com/tutorials/command-line-for-beginners#4-creating-folders-and-files)
   * [mv; cp; rm; rmdir; rmdir -p; rm -r](https://ubuntu.com/tutorials/command-line-for-beginners#5-moving-and-manipulating-files)
   * [wc -l; | ;  uniq ;  man](https://ubuntu.com/tutorials/command-line-for-beginners#6-a-bit-of-plumbing)
+  
  
